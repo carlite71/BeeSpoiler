@@ -14,3 +14,7 @@ My first attempt at solving this involved creating a REGEX, but it soon proved t
 So instead I went for a strategy involving sets, which makes it easy to compare whether the unique letters of a word are a subset of the letters provided in the game.
 
 Have a better (faster and/or more elegant approach)? 
+
+May 2026 UPDATE:
+
+This repo will be archived and replaced by a reworked version of this script.
